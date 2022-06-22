@@ -1,11 +1,9 @@
 #include <iostream>
 
 using namespace std;
-int a,b;
+
 int main()
 {
-    cin >> a >> b ;
-    if ( a > b) cout << a;
-    else cout << b;
+    cout << "Hello world!" << endl;
     return 0;
 }
