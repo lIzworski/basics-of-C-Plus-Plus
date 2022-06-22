@@ -1,2 +1,2 @@
-# basics-of-c++
-In my first year of college I learned the basics of c++
+# basics-of-C++ 📚
+In my first year of college I learned the basics of C++ 📘📚📚📒📔📓
